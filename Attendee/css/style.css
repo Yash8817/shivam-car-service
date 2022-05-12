@@ -1,0 +1,22 @@
+#success-message{
+  background: #DEF1D8;
+  color: green;
+  padding: 10px;
+  margin: 10px;
+  display: none;
+  position: absolute;
+  right: 15px;
+  top: 15px;
+}
+#error-message{
+  background: #EFDCDD;
+  color: red;
+  padding: 10px;
+  margin: 10px;
+  display: none;
+  position:absolute;
+  right: 15px;
+  top: 15px;
+}
+
+
